@@ -1,2 +1,0 @@
-# GHI
-Global Human Initiative
